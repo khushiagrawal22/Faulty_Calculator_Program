@@ -1,5 +1,6 @@
 # Faulty_Calculator_Program
 Hi, this is my Faulty Calculator Program
+
 This Python program is a simple calculator that allows users to perform basic arithmetic operations. Users are prompted to enter the first number, select an operator (addition, subtraction, multiplication, or division), and input the second number. The program then executes the corresponding operation and provides the result.
 
 The program also includes a few customized calculations for specific combinations of inputs. If the first number is 45, the operator is "*", and the second number is 3, the program outputs "555". Similarly, if the first number is 56, the operator is "+", and the second number is 9, the program outputs "77". Additionally, if the first number is 56, the operator is "/", and the second number is 6, the program outputs "4".
